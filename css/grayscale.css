@@ -138,6 +138,7 @@
 .btn {
   box-shadow: 0 0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.1) !important;
   padding: 1.25rem 2rem;
+  margin-top: 2rem;
   font-family: 'Varela Round';
   font-size: 80%;
   text-transform: uppercase;
@@ -169,6 +170,12 @@
 
 .about-section p {
   margin-bottom: 5rem;
+}
+
+.img-half {
+  max-width: 50%;
+  height: auto;
+  padding: 2rem;
 }
 
 .projects-section {

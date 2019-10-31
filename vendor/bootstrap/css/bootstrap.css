@@ -3403,6 +3403,12 @@ input[type="button"].btn-block {
   pointer-events: none;
 }
 
+.column-half {
+  flex: 50%;
+  max-width: 50%;
+  padding: 0 4px;
+}
+
 .input-group {
   position: relative;
   display: -ms-flexbox;
